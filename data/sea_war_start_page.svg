@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   sodipodi:docbase="/home/lok/pygameLesson/seaWar-2/data"
+   sodipodi:docname="sea_war_start_page.svg"
+   inkscape:export-filename="/home/lok/pygameLesson/seaWar-2/data/sea_war_logo.png"
+   inkscape:export-xdpi="89.999992"
+   inkscape:export-ydpi="89.999992">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0083333"
+     inkscape:cx="385.98329"
+     inkscape:cy="750.53149"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     inkscape:window-width="1014"
+     inkscape:window-height="689"
+     inkscape:window-x="0"
+     inkscape:window-y="25" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bg"
+     sodipodi:insensitive="true"
+     style="opacity:1">
+    <rect
+       style="opacity:1;fill:maroon;fill-opacity:1;stroke:#6b6baf;stroke-width:12.67518234;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect1872"
+       width="627.32477"
+       height="467.32483"
+       x="72.320908"
+       y="68.168282" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="text_copyright">
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:aqua;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="303.4711"
+       y="138.97374"
+       id="text2171"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan2173"
+         x="303.4711"
+         y="138.97374">http://www.milk2cows.com</tspan><tspan
+         sodipodi:role="line"
+         x="303.4711"
+         y="162.97374"
+         id="tspan2175">copyright (c) 2008</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:lime;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+       x="304.04532"
+       y="197.57523"
+       id="text2619"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan2621"
+         x="304.04532"
+         y="197.57523">frankie@milk2cows.com</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:yellow;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+       x="303.99844"
+       y="228.80685"
+       id="text2609"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan2611"
+         x="303.99844"
+         y="228.80685">Press [SpaceBar] to play.</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text2167"
+       y="257.66095"
+       x="357.48169"
+       style="font-size:24px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:yellow;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="257.66095"
+         x="357.48169"
+         id="tspan2169"
+         sodipodi:role="line">Press [h] to help.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Text"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:yellow;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="92.455017"
+       y="419.06519"
+       id="text4035"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4037"
+         x="92.455017"
+         y="419.06519">Sea War</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="bubble"
+     sodipodi:insensitive="true">
+    <g
+       style="opacity:1"
+       id="g4163"
+       transform="matrix(0.191442,0,0,0.191442,251.9137,426.994)">
+      <rect
+         y="21.311382"
+         x="-812.22681"
+         height="397.14285"
+         width="1534.2858"
+         id="rect1973"
+         style="fill:black;fill-opacity:1;stroke:#6b6baf;stroke-width:10.62992096;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+      <g
+         inkscape:export-ydpi="5.8232484"
+         inkscape:export-xdpi="5.8232484"
+         inkscape:export-filename="/home/lok/pygameLesson/racingKiller/data/bubble1.png"
+         id="g2918"
+         transform="translate(-339.8793,570.1105)">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M -225.56828,-497.96494 C -398.61634,-569.39805 -529.98319,-295.24355 -337.70446,-223.17367 C -145.42573,-151.10379 -52.52023,-426.53182 -225.56828,-497.96494 z "
+           id="path5502"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M -312.78016,-462.52227 C -366.83573,-484.83606 -407.87122,-399.19755 -347.8085,-376.68486 C -287.74579,-354.17216 -258.7246,-440.20848 -312.78016,-462.52227 z "
+           id="path7276"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M -373.09332,-361.21628 C -400.1211,-372.37317 -420.63885,-329.55391 -390.60748,-318.29756 C -360.57613,-307.04121 -346.06553,-350.05937 -373.09332,-361.21628 z "
+           id="path8163"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M -233.8076,-474.7877 C -260.83538,-485.94459 -281.35313,-443.12533 -251.32176,-431.86899 C -221.29041,-420.61263 -206.77981,-463.63079 -233.8076,-474.7877 z "
+           id="path9050"
+           sodipodi:nodetypes="czz" />
+      </g>
+      <g
+         inkscape:export-ydpi="5.8232484"
+         inkscape:export-xdpi="5.8232484"
+         inkscape:export-filename="/home/lok/pygameLesson/racingKiller/data/bubble3.png"
+         id="g2930"
+         transform="translate(-339.8793,570.1105)">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 535.08347,-497.96497 C 362.03541,-569.39808 230.66856,-295.24358 422.94729,-223.1737 C 615.22602,-151.10382 708.13152,-426.53185 535.08347,-497.96497 z "
+           id="path9057"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 575.99109,-380.7751 C 598.30488,-434.83067 512.66637,-475.86616 490.15368,-415.80344 C 467.64098,-355.74073 553.6773,-326.71954 575.99109,-380.7751 z "
+           id="path9061"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 483.25653,-449.65969 C 494.41342,-476.68747 451.59416,-497.20522 440.33781,-467.17385 C 429.08146,-437.1425 472.09962,-422.6319 483.25653,-449.65969 z "
+           id="path9063"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 591.11366,-304.65969 C 602.27055,-331.68747 559.45129,-352.20522 548.19495,-322.17385 C 536.93859,-292.1425 579.95675,-277.6319 591.11366,-304.65969 z "
+           id="path9065"
+           sodipodi:nodetypes="czz" />
+      </g>
+      <g
+         inkscape:export-ydpi="5.8232484"
+         inkscape:export-xdpi="5.8232484"
+         inkscape:export-filename="/home/lok/pygameLesson/racingKiller/data/bubble2.png"
+         id="g2924"
+         transform="translate(-339.8793,570.1105)">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 166.51204,-497.96498 C -6.536024,-569.39809 -137.90287,-295.24359 54.37586,-223.17371 C 246.65459,-151.10383 339.56009,-426.53186 166.51204,-497.96498 z "
+           id="path9067"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 140.2802,-258.7894 C 194.33577,-236.47561 235.37126,-322.11412 175.30854,-344.62681 C 115.24583,-367.13951 86.22464,-281.10319 140.2802,-258.7894 z "
+           id="path9071"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 192.02193,-365.80968 C 219.04971,-354.65279 239.56746,-397.47205 209.53609,-408.7284 C 179.50474,-419.98475 164.99414,-376.96659 192.02193,-365.80968 z "
+           id="path9073"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 61.30765,-243.66683 C 88.33543,-232.50994 108.85318,-275.3292 78.82181,-286.58554 C 48.79046,-297.8419 34.27986,-254.82374 61.30765,-243.66683 z "
+           id="path9075"
+           sodipodi:nodetypes="czz" />
+      </g>
+      <g
+         inkscape:export-ydpi="5.8232484"
+         inkscape:export-xdpi="5.8232484"
+         inkscape:export-filename="/home/lok/pygameLesson/racingKiller/data/bubble4.png"
+         id="g2936"
+         transform="translate(-339.8793,570.1105)">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 909.3692,-497.96491 C 736.32117,-569.39802 604.95432,-295.24352 797.23305,-223.17364 C 989.5118,-151.10376 1082.4173,-426.53179 909.3692,-497.96491 z "
+           id="path9077"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 749.7229,-331.6432 C 727.40911,-277.58763 813.04762,-236.55214 835.56031,-296.61486 C 858.07301,-356.67757 772.03669,-385.69876 749.7229,-331.6432 z "
+           id="path9081"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 851.02889,-277.04433 C 839.872,-250.01655 882.6913,-229.4988 893.9476,-259.53017 C 905.204,-289.56152 862.1858,-304.07212 851.02889,-277.04433 z "
+           id="path9083"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 743.17176,-410.61575 C 732.01487,-383.58797 774.83413,-363.07022 786.09047,-393.10159 C 797.34683,-423.13294 754.32867,-437.64354 743.17176,-410.61575 z "
+           id="path9085"
+           sodipodi:nodetypes="czz" />
+      </g>
+    </g>
+    <g
+       style="opacity:1"
+       id="g4231"
+       transform="matrix(0.191442,0,0,0.191442,252.1915,283.2937)">
+      <rect
+         y="21.311382"
+         x="-812.22681"
+         height="397.14285"
+         width="1534.2858"
+         id="rect4233"
+         style="fill:black;fill-opacity:1;stroke:#6b6baf;stroke-width:10.62992096;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+      <g
+         inkscape:export-ydpi="5.8232484"
+         inkscape:export-xdpi="5.8232484"
+         inkscape:export-filename="/home/lok/pygameLesson/racingKiller/data/bubble1.png"
+         id="g4235"
+         transform="translate(-339.8793,570.1105)">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M -225.56828,-497.96494 C -398.61634,-569.39805 -529.98319,-295.24355 -337.70446,-223.17367 C -145.42573,-151.10379 -52.52023,-426.53182 -225.56828,-497.96494 z "
+           id="path4237"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M -312.78016,-462.52227 C -366.83573,-484.83606 -407.87122,-399.19755 -347.8085,-376.68486 C -287.74579,-354.17216 -258.7246,-440.20848 -312.78016,-462.52227 z "
+           id="path4239"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M -373.09332,-361.21628 C -400.1211,-372.37317 -420.63885,-329.55391 -390.60748,-318.29756 C -360.57613,-307.04121 -346.06553,-350.05937 -373.09332,-361.21628 z "
+           id="path4241"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M -233.8076,-474.7877 C -260.83538,-485.94459 -281.35313,-443.12533 -251.32176,-431.86899 C -221.29041,-420.61263 -206.77981,-463.63079 -233.8076,-474.7877 z "
+           id="path4243"
+           sodipodi:nodetypes="czz" />
+      </g>
+      <g
+         inkscape:export-ydpi="5.8232484"
+         inkscape:export-xdpi="5.8232484"
+         inkscape:export-filename="/home/lok/pygameLesson/racingKiller/data/bubble3.png"
+         id="g4245"
+         transform="translate(-339.8793,570.1105)">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 535.08347,-497.96497 C 362.03541,-569.39808 230.66856,-295.24358 422.94729,-223.1737 C 615.22602,-151.10382 708.13152,-426.53185 535.08347,-497.96497 z "
+           id="path4247"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 575.99109,-380.7751 C 598.30488,-434.83067 512.66637,-475.86616 490.15368,-415.80344 C 467.64098,-355.74073 553.6773,-326.71954 575.99109,-380.7751 z "
+           id="path4249"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 483.25653,-449.65969 C 494.41342,-476.68747 451.59416,-497.20522 440.33781,-467.17385 C 429.08146,-437.1425 472.09962,-422.6319 483.25653,-449.65969 z "
+           id="path4251"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 591.11366,-304.65969 C 602.27055,-331.68747 559.45129,-352.20522 548.19495,-322.17385 C 536.93859,-292.1425 579.95675,-277.6319 591.11366,-304.65969 z "
+           id="path4253"
+           sodipodi:nodetypes="czz" />
+      </g>
+      <g
+         inkscape:export-ydpi="5.8232484"
+         inkscape:export-xdpi="5.8232484"
+         inkscape:export-filename="/home/lok/pygameLesson/racingKiller/data/bubble2.png"
+         id="g4255"
+         transform="translate(-339.8793,570.1105)">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 166.51204,-497.96498 C -6.536024,-569.39809 -137.90287,-295.24359 54.37586,-223.17371 C 246.65459,-151.10383 339.56009,-426.53186 166.51204,-497.96498 z "
+           id="path4257"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 140.2802,-258.7894 C 194.33577,-236.47561 235.37126,-322.11412 175.30854,-344.62681 C 115.24583,-367.13951 86.22464,-281.10319 140.2802,-258.7894 z "
+           id="path4259"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 192.02193,-365.80968 C 219.04971,-354.65279 239.56746,-397.47205 209.53609,-408.7284 C 179.50474,-419.98475 164.99414,-376.96659 192.02193,-365.80968 z "
+           id="path4261"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 61.30765,-243.66683 C 88.33543,-232.50994 108.85318,-275.3292 78.82181,-286.58554 C 48.79046,-297.8419 34.27986,-254.82374 61.30765,-243.66683 z "
+           id="path4263"
+           sodipodi:nodetypes="czz" />
+      </g>
+      <g
+         inkscape:export-ydpi="5.8232484"
+         inkscape:export-xdpi="5.8232484"
+         inkscape:export-filename="/home/lok/pygameLesson/racingKiller/data/bubble4.png"
+         id="g4265"
+         transform="translate(-339.8793,570.1105)">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 909.3692,-497.96491 C 736.32117,-569.39802 604.95432,-295.24352 797.23305,-223.17364 C 989.5118,-151.10376 1082.4173,-426.53179 909.3692,-497.96491 z "
+           id="path4267"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 749.7229,-331.6432 C 727.40911,-277.58763 813.04762,-236.55214 835.56031,-296.61486 C 858.07301,-356.67757 772.03669,-385.69876 749.7229,-331.6432 z "
+           id="path4269"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 851.02889,-277.04433 C 839.872,-250.01655 882.6913,-229.4988 893.9476,-259.53017 C 905.204,-289.56152 862.1858,-304.07212 851.02889,-277.04433 z "
+           id="path4271"
+           sodipodi:nodetypes="czz" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 743.17176,-410.61575 C 732.01487,-383.58797 774.83413,-363.07022 786.09047,-393.10159 C 797.34683,-423.13294 754.32867,-437.64354 743.17176,-410.61575 z "
+           id="path4273"
+           sodipodi:nodetypes="czz" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="shadow"
+     sodipodi:insensitive="true">
+    <g
+       transform="matrix(0.35,0,0,0.35,29.30177,348.1575)"
+       id="g2197"
+       inkscape:export-filename="/home/lok/pygameLesson/racingKiller/data/yoctopus3.png"
+       inkscape:export-xdpi="15.47278"
+       inkscape:export-ydpi="15.47278"
+       style="opacity:1;fill:black;fill-opacity:1">
+      <path
+         sodipodi:nodetypes="ccczczczczczczczccc"
+         id="path2199"
+         d="M 256.11984,-19.386788 L 435.97958,-64.625698 L 603.84562,-6.387698 C 603.84562,-6.387698 551.8535,99.484252 583.86138,81.356192 C 615.04842,63.693032 563.87714,169.10008 563.87714,169.10008 C 563.87714,169.10008 501.88169,164.87435 542.89369,94.355292 C 584.40196,22.982902 521.91024,19.610502 521.91024,19.610502 C 521.91024,19.610502 466.94675,53.706392 497.92915,94.355292 C 527.9386,133.72768 473.94805,169.10008 473.94805,169.10008 C 473.94805,169.10008 491.4579,39.290352 450.96776,111.48062 C 411.32804,182.15466 423.98746,9.861172 423.98746,9.861172 C 423.98746,9.861172 439.11524,58.961972 389.00243,92.230852 C 337.50992,126.4157 386.01741,162.60054 386.01741,162.60054 C 386.01741,162.60054 276.52647,141.91615 359.03553,63.231762 C 440.50329,-14.459598 340.05365,-16.137018 340.05365,-16.137018 C 340.05365,-16.137018 300.0631,18.110042 316.07256,68.357102 C 332.66153,120.42305 292.09146,152.85122 292.09146,152.85122 L 274.10565,66.732222 L 256.11984,-19.386788 z "
+         style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1.27420831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(1.082474,0,0,0.945946,-28.12133,-243.9239)"
+         sodipodi:open="true"
+         sodipodi:end="6.2820279"
+         sodipodi:start="0"
+         d="M 559.99998,249.50504 A 138.57143,105.71429 0 1 1 559.99989,249.38268"
+         sodipodi:ry="105.71429"
+         sodipodi:rx="138.57143"
+         sodipodi:cy="249.50504"
+         sodipodi:cx="421.42856"
+         id="path2201"
+         style="fill:black;fill-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.795455,0,0,1.05,689.1162,-149.886)"
+         sodipodi:open="true"
+         sodipodi:end="6.2820279"
+         sodipodi:start="0"
+         d="M -334.28571,135.21933 A 62.857143,71.428574 0 1 1 -334.28575,135.13666"
+         sodipodi:ry="71.428574"
+         sodipodi:rx="62.857143"
+         sodipodi:cy="135.21933"
+         sodipodi:cx="-397.14285"
+         id="path2203"
+         style="fill:black;fill-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.795455,0,0,1.05,795.1164,-149.886)"
+         sodipodi:end="6.2825774"
+         sodipodi:start="0"
+         d="M -334.28571,135.21933 A 62.857143,71.428574 0 1 1 -334.28572,135.17591 L -397.14285,135.21933 z"
+         sodipodi:ry="71.428574"
+         sodipodi:rx="62.857143"
+         sodipodi:cy="135.21933"
+         sodipodi:cx="-397.14285"
+         id="path2205"
+         style="fill:black;fill-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="ccczczczccczcsczc"
+         id="path2207"
+         d="M 603.89687,9.861192 L 434.03713,31.100102 L 256.17109,-3.137898 C 256.17109,-3.137898 253.44134,-89.878058 276.15533,-90.881788 C 298.86932,-91.885518 296.16357,-178.64968 296.13957,-178.62568 C 296.13957,-178.62568 348.9245,-161.08471 319.41622,-95.712318 C 290.23683,-31.068538 338.10647,-29.136098 338.10647,-29.136098 C 338.10647,-29.136098 383.75543,-57.243718 362.08756,-103.88089 C 340.07811,-151.25328 402.06866,-170.62568 402.06866,-170.62568 L 436.02925,-19.386768 L 435.9993,-136.12614 C 435.9993,-136.12614 485.49024,-127.44175 496.98118,-82.757358 C 508.47212,-38.072968 519.96306,6.611422 519.96306,6.611422 C 519.96306,6.611422 584.26101,-72.872128 535.75156,-70.619188 C 493.90393,-68.675648 533.92525,-160.37682 533.92525,-160.37682 C 533.92525,-160.37682 552.91815,-87.317318 575.91106,-80.257818 C 597.0837,-73.757188 603.89687,9.861192 603.89687,9.861192 z "
+         style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1.27420831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       style="opacity:1;fill:black;fill-opacity:1"
+       transform="matrix(0.35,0,0,0.35,332.7887,593.8897)"
+       id="g3123"
+       inkscape:export-filename="/home/lok/pygameLesson/racingKiller/data/sea_nettle2.png"
+       inkscape:export-xdpi="18.02483"
+       inkscape:export-ydpi="18.02483">
+      <path
+         sodipodi:nodetypes="ccczczczczczczczczc"
+         id="path3125"
+         d="M 21.95886,-275.10234 L -60.536419,-281.3059 L -155.42009,-273.058 C -155.42009,-273.058 -126.52548,-255.57029 -145.10727,-247.42932 C -163.0506,-239.56803 -134.79444,-221.80061 -134.79444,-221.80061 C -134.79444,-221.80061 -108.73832,-226.87483 -123.96594,-243.63245 C -138.98361,-260.15894 -113.13752,-265.4643 -113.13752,-265.4643 C -109.0124,-258.18702 -86.307915,-249.87502 -100.76211,-243.63245 C -115.72833,-237.16879 -92.511855,-229.07789 -88.386755,-221.80061 C -88.386755,-221.80061 -63.122019,-241.26491 -75.495665,-245.05627 C -88.660005,-249.0899 -62.604659,-268.31196 -62.604659,-268.31196 C -62.604659,-268.31196 -31.16791,-265.07597 -52.8075,-246.00549 C -74.743415,-226.67387 -43.01032,-223.69904 -43.01032,-223.69904 C -43.01032,-223.69904 -20.5669,-234.99816 -31.15056,-249.80234 C -41.3764,-264.10595 -19.29081,-275.90564 -19.29081,-275.90564 C -19.29081,-275.90564 5.18525,-275.10381 4.4376,-261.15705 C 3.65869,-246.62665 -18.2782,-236.47756 -18.2782,-236.47756 C -18.2782,-236.47756 -0.99428,-236.93307 14.74152,-251.70075 C 30.02335,-266.0424 21.95886,-275.10234 21.95886,-275.10234 z "
+         style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.49469811px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccczczczczczczczccc"
+         id="path3127"
+         d="M -155.43639,-472.89496 L -62.571147,-461.37108 L 24.10149,-476.20627 C 24.10149,-476.20627 -2.74309,-503.17545 13.78323,-498.55762 C 29.88573,-494.05821 3.46495,-520.90897 3.46495,-520.90897 C 3.46495,-520.90897 -28.54456,-519.83253 -7.36923,-501.86893 C 14.06233,-483.68796 -18.20341,-482.8289 -18.20341,-482.8289 C -18.20341,-482.8289 -46.58218,-491.51428 -30.58534,-501.86893 C -15.09085,-511.89842 -42.96726,-520.90897 -42.96726,-520.90897 C -42.96726,-520.90897 -33.92658,-487.84202 -54.83246,-506.23134 C -75.299237,-524.23441 -68.762917,-480.34541 -68.762917,-480.34541 C -68.762917,-480.34541 -60.952137,-492.85305 -86.826407,-501.32777 C -113.41304,-510.03581 -88.367627,-519.25331 -88.367627,-519.25331 C -88.367627,-519.25331 -144.90004,-513.9843 -102.29892,-493.94071 C -60.235457,-474.15009 -112.09966,-473.72279 -112.09966,-473.72279 C -112.09966,-473.72279 -132.74759,-482.44668 -124.48159,-495.24631 C -115.91636,-508.50928 -136.86351,-516.76983 -136.86351,-516.76983 L -146.14995,-494.8324 L -155.43639,-472.89496 z "
+         style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:0.46210799px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(1.082474,0,0,-0.945946,-521.8529,-134.6258)"
+         sodipodi:open="true"
+         sodipodi:end="6.2820279"
+         sodipodi:start="0"
+         d="M 559.99998,249.50504 A 138.57143,105.71429 0 1 1 559.99989,249.38268"
+         sodipodi:ry="105.71429"
+         sodipodi:rx="138.57143"
+         sodipodi:cy="249.50504"
+         sodipodi:cx="421.42856"
+         id="path3129"
+         style="fill:black;fill-opacity:1"
+         sodipodi:type="arc" />
+      <g
+         transform="matrix(1,0,0,-1,341.3326,-164.4248)"
+         id="g3131"
+         style="fill:black;fill-opacity:1">
+        <path
+           sodipodi:type="arc"
+           style="fill:black;fill-opacity:1"
+           id="path3133"
+           sodipodi:cx="-397.14285"
+           sodipodi:cy="135.21933"
+           sodipodi:rx="62.857143"
+           sodipodi:ry="71.428574"
+           d="M -334.28571,135.21933 A 62.857143,71.428574 0 1 1 -334.28575,135.13666"
+           sodipodi:start="0"
+           sodipodi:end="6.2820279"
+           sodipodi:open="true"
+           transform="matrix(0.795455,0,0,1.05,-146.0909,64.239)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:black;fill-opacity:1"
+           id="path3135"
+           sodipodi:cx="-397.14285"
+           sodipodi:cy="135.21933"
+           sodipodi:rx="62.857143"
+           sodipodi:ry="71.428574"
+           d="M -334.28571,135.21933 A 62.857143,71.428574 0 1 1 -334.28572,135.17591 L -397.14285,135.21933 z"
+           sodipodi:start="0"
+           sodipodi:end="6.2825774"
+           transform="matrix(0.795455,0,0,1.05,-36.0907,64.239)" />
+      </g>
+      <path
+         sodipodi:open="true"
+         sodipodi:end="6.2820279"
+         sodipodi:start="0"
+         transform="matrix(0.769231,0,0,0.714286,-431.1792,-279.8405)"
+         d="M 402,-127.125 A 39,28 0 1 1 401.99997,-127.15741"
+         sodipodi:ry="28"
+         sodipodi:rx="39"
+         sodipodi:cy="-127.125"
+         sodipodi:cx="363"
+         id="path3137"
+         style="fill:black;fill-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="6.2820279"
+         sodipodi:start="0"
+         transform="matrix(0,0.769231,-0.714286,0,-98.46019,-696.9721)"
+         d="M 402,-127.125 A 39,28 0 1 1 401.99997,-127.15741"
+         sodipodi:ry="28"
+         sodipodi:rx="39"
+         sodipodi:cy="-127.125"
+         sodipodi:cx="363"
+         id="path3139"
+         style="fill:black;fill-opacity:1"
+         sodipodi:type="arc" />
+    </g>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="opacity:1"
+     sodipodi:insensitive="true">
+    <g
+       transform="matrix(0.35,0,0,0.35,24.05945,340.8183)"
+       id="g2606"
+       inkscape:export-filename="/home/lok/pygameLesson/racingKiller/data/yoctopus3.png"
+       inkscape:export-xdpi="15.47278"
+       inkscape:export-ydpi="15.47278">
+      <path
+         sodipodi:nodetypes="ccczczczczczczczccc"
+         id="path2089"
+         d="M 256.11984,-19.386788 L 435.97958,-64.625698 L 603.84562,-6.387698 C 603.84562,-6.387698 551.8535,99.484252 583.86138,81.356192 C 615.04842,63.693032 563.87714,169.10008 563.87714,169.10008 C 563.87714,169.10008 501.88169,164.87435 542.89369,94.355292 C 584.40196,22.982902 521.91024,19.610502 521.91024,19.610502 C 521.91024,19.610502 466.94675,53.706392 497.92915,94.355292 C 527.9386,133.72768 473.94805,169.10008 473.94805,169.10008 C 473.94805,169.10008 491.4579,39.290352 450.96776,111.48062 C 411.32804,182.15466 423.98746,9.861172 423.98746,9.861172 C 423.98746,9.861172 439.11524,58.961972 389.00243,92.230852 C 337.50992,126.4157 386.01741,162.60054 386.01741,162.60054 C 386.01741,162.60054 276.52647,141.91615 359.03553,63.231762 C 440.50329,-14.459598 340.05365,-16.137018 340.05365,-16.137018 C 340.05365,-16.137018 300.0631,18.110042 316.07256,68.357102 C 332.66153,120.42305 292.09146,152.85122 292.09146,152.85122 L 274.10565,66.732222 L 256.11984,-19.386788 z "
+         style="fill:#d40000;fill-rule:evenodd;stroke:black;stroke-width:1.27420831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(1.082474,0,0,0.945946,-28.12133,-243.9239)"
+         sodipodi:open="true"
+         sodipodi:end="6.2820279"
+         sodipodi:start="0"
+         d="M 559.99998,249.50504 A 138.57143,105.71429 0 1 1 559.99989,249.38268"
+         sodipodi:ry="105.71429"
+         sodipodi:rx="138.57143"
+         sodipodi:cy="249.50504"
+         sodipodi:cx="421.42856"
+         id="path2093"
+         style="fill:green;fill-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.795455,0,0,1.05,689.1162,-149.886)"
+         sodipodi:open="true"
+         sodipodi:end="6.2820279"
+         sodipodi:start="0"
+         d="M -334.28571,135.21933 A 62.857143,71.428574 0 1 1 -334.28575,135.13666"
+         sodipodi:ry="71.428574"
+         sodipodi:rx="62.857143"
+         sodipodi:cy="135.21933"
+         sodipodi:cx="-397.14285"
+         id="path2095"
+         style="fill:yellow;fill-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.795455,0,0,1.05,795.1164,-149.886)"
+         sodipodi:end="6.2825774"
+         sodipodi:start="0"
+         d="M -334.28571,135.21933 A 62.857143,71.428574 0 1 1 -334.28572,135.17591 L -397.14285,135.21933 z"
+         sodipodi:ry="71.428574"
+         sodipodi:rx="62.857143"
+         sodipodi:cy="135.21933"
+         sodipodi:cx="-397.14285"
+         id="path2097"
+         style="fill:yellow;fill-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="ccczczczccczcsczc"
+         id="path2099"
+         d="M 603.89687,9.861192 L 434.03713,31.100102 L 256.17109,-3.137898 C 256.17109,-3.137898 253.44134,-89.878058 276.15533,-90.881788 C 298.86932,-91.885518 296.16357,-178.64968 296.13957,-178.62568 C 296.13957,-178.62568 348.9245,-161.08471 319.41622,-95.712318 C 290.23683,-31.068538 338.10647,-29.136098 338.10647,-29.136098 C 338.10647,-29.136098 383.75543,-57.243718 362.08756,-103.88089 C 340.07811,-151.25328 402.06866,-170.62568 402.06866,-170.62568 L 436.02925,-19.386768 L 435.9993,-136.12614 C 435.9993,-136.12614 485.49024,-127.44175 496.98118,-82.757358 C 508.47212,-38.072968 519.96306,6.611422 519.96306,6.611422 C 519.96306,6.611422 584.26101,-72.872128 535.75156,-70.619188 C 493.90393,-68.675648 533.92525,-160.37682 533.92525,-160.37682 C 533.92525,-160.37682 552.91815,-87.317318 575.91106,-80.257818 C 597.0837,-73.757188 603.89687,9.861192 603.89687,9.861192 z "
+         style="fill:#d40000;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1.27420831px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       style="opacity:1"
+       transform="matrix(0.35,0,0,0.35,324.401,586.5505)"
+       id="g2559"
+       inkscape:export-filename="/home/lok/pygameLesson/racingKiller/data/sea_nettle2.png"
+       inkscape:export-xdpi="18.02483"
+       inkscape:export-ydpi="18.02483">
+      <path
+         sodipodi:nodetypes="ccczczczczczczczczc"
+         id="path2331"
+         d="M 21.95886,-275.10234 L -60.536419,-281.3059 L -155.42009,-273.058 C -155.42009,-273.058 -126.52548,-255.57029 -145.10727,-247.42932 C -163.0506,-239.56803 -134.79444,-221.80061 -134.79444,-221.80061 C -134.79444,-221.80061 -108.73832,-226.87483 -123.96594,-243.63245 C -138.98361,-260.15894 -113.13752,-265.4643 -113.13752,-265.4643 C -109.0124,-258.18702 -86.307915,-249.87502 -100.76211,-243.63245 C -115.72833,-237.16879 -92.511855,-229.07789 -88.386755,-221.80061 C -88.386755,-221.80061 -63.122019,-241.26491 -75.495665,-245.05627 C -88.660005,-249.0899 -62.604659,-268.31196 -62.604659,-268.31196 C -62.604659,-268.31196 -31.16791,-265.07597 -52.8075,-246.00549 C -74.743415,-226.67387 -43.01032,-223.69904 -43.01032,-223.69904 C -43.01032,-223.69904 -20.5669,-234.99816 -31.15056,-249.80234 C -41.3764,-264.10595 -19.29081,-275.90564 -19.29081,-275.90564 C -19.29081,-275.90564 5.18525,-275.10381 4.4376,-261.15705 C 3.65869,-246.62665 -18.2782,-236.47756 -18.2782,-236.47756 C -18.2782,-236.47756 -0.99428,-236.93307 14.74152,-251.70075 C 30.02335,-266.0424 21.95886,-275.10234 21.95886,-275.10234 z "
+         style="fill:#d40000;fill-rule:evenodd;stroke:black;stroke-width:0.49469811px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccczczczczczczczccc"
+         id="path2333"
+         d="M -155.43639,-472.89496 L -62.571147,-461.37108 L 24.10149,-476.20627 C 24.10149,-476.20627 -2.74309,-503.17545 13.78323,-498.55762 C 29.88573,-494.05821 3.46495,-520.90897 3.46495,-520.90897 C 3.46495,-520.90897 -28.54456,-519.83253 -7.36923,-501.86893 C 14.06233,-483.68796 -18.20341,-482.8289 -18.20341,-482.8289 C -18.20341,-482.8289 -46.58218,-491.51428 -30.58534,-501.86893 C -15.09085,-511.89842 -42.96726,-520.90897 -42.96726,-520.90897 C -42.96726,-520.90897 -33.92658,-487.84202 -54.83246,-506.23134 C -75.299237,-524.23441 -68.762917,-480.34541 -68.762917,-480.34541 C -68.762917,-480.34541 -60.952137,-492.85305 -86.826407,-501.32777 C -113.41304,-510.03581 -88.367627,-519.25331 -88.367627,-519.25331 C -88.367627,-519.25331 -144.90004,-513.9843 -102.29892,-493.94071 C -60.235457,-474.15009 -112.09966,-473.72279 -112.09966,-473.72279 C -112.09966,-473.72279 -132.74759,-482.44668 -124.48159,-495.24631 C -115.91636,-508.50928 -136.86351,-516.76983 -136.86351,-516.76983 L -146.14995,-494.8324 L -155.43639,-472.89496 z "
+         style="fill:#d40000;fill-rule:evenodd;stroke:black;stroke-width:0.46210799px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(1.082474,0,0,-0.945946,-521.8529,-134.6258)"
+         sodipodi:open="true"
+         sodipodi:end="6.2820279"
+         sodipodi:start="0"
+         d="M 559.99998,249.50504 A 138.57143,105.71429 0 1 1 559.99989,249.38268"
+         sodipodi:ry="105.71429"
+         sodipodi:rx="138.57143"
+         sodipodi:cy="249.50504"
+         sodipodi:cx="421.42856"
+         id="path2321"
+         style="fill:navy;fill-opacity:1"
+         sodipodi:type="arc" />
+      <g
+         transform="matrix(1,0,0,-1,341.3326,-164.4248)"
+         id="g2323">
+        <path
+           sodipodi:type="arc"
+           style="fill:yellow;fill-opacity:1"
+           id="path2325"
+           sodipodi:cx="-397.14285"
+           sodipodi:cy="135.21933"
+           sodipodi:rx="62.857143"
+           sodipodi:ry="71.428574"
+           d="M -334.28571,135.21933 A 62.857143,71.428574 0 1 1 -334.28575,135.13666"
+           sodipodi:start="0"
+           sodipodi:end="6.2820279"
+           sodipodi:open="true"
+           transform="matrix(0.795455,0,0,1.05,-146.0909,64.239)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:yellow;fill-opacity:1"
+           id="path2327"
+           sodipodi:cx="-397.14285"
+           sodipodi:cy="135.21933"
+           sodipodi:rx="62.857143"
+           sodipodi:ry="71.428574"
+           d="M -334.28571,135.21933 A 62.857143,71.428574 0 1 1 -334.28572,135.17591 L -397.14285,135.21933 z"
+           sodipodi:start="0"
+           sodipodi:end="6.2825774"
+           transform="matrix(0.795455,0,0,1.05,-36.0907,64.239)" />
+      </g>
+      <path
+         sodipodi:open="true"
+         sodipodi:end="6.2820279"
+         sodipodi:start="0"
+         transform="matrix(0.769231,0,0,0.714286,-431.1792,-279.8405)"
+         d="M 402,-127.125 A 39,28 0 1 1 401.99997,-127.15741"
+         sodipodi:ry="28"
+         sodipodi:rx="39"
+         sodipodi:cy="-127.125"
+         sodipodi:cx="363"
+         id="path2329"
+         style="fill:red;fill-opacity:1"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="6.2820279"
+         sodipodi:start="0"
+         transform="matrix(0,0.769231,-0.714286,0,-98.46019,-696.9721)"
+         d="M 402,-127.125 A 39,28 0 1 1 401.99997,-127.15741"
+         sodipodi:ry="28"
+         sodipodi:rx="39"
+         sodipodi:cy="-127.125"
+         sodipodi:cx="363"
+         id="path2335"
+         style="fill:green;fill-opacity:1"
+         sodipodi:type="arc" />
+    </g>
+  </g>
+</svg>

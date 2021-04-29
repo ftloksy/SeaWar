@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1544.9156"
+   height="407.77277"
+   id="svg3716"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   version="1.0"
+   sodipodi:docbase="/home/lok/pygameLesson/racingKiller/data"
+   sodipodi:docname="bubble.svg"
+   inkscape:export-filename="/home/lok/pygameLesson/racingKiller/data/bubble.png"
+   inkscape:export-xdpi="89.999992"
+   inkscape:export-ydpi="89.999992">
+  <defs
+     id="defs3718" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="647.31375"
+     inkscape:cy="499.24674"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="782"
+     inkscape:window-height="613"
+     inkscape:window-x="5"
+     inkscape:window-y="49" />
+  <metadata
+     id="metadata3721">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(477.6625,554.1141)">
+    <rect
+       style="fill:black;fill-opacity:1;stroke:#6b6baf;stroke-width:10.62992096;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect1973"
+       width="1534.2858"
+       height="397.14285"
+       x="-472.3475"
+       y="-548.79913" />
+    <g
+       id="g2918"
+       inkscape:export-filename="/home/lok/pygameLesson/racingKiller/data/bubble1.png"
+       inkscape:export-xdpi="5.8232484"
+       inkscape:export-ydpi="5.8232484">
+      <path
+         sodipodi:nodetypes="czz"
+         id="path5502"
+         d="M -225.56828,-497.96494 C -398.61634,-569.39805 -529.98319,-295.24355 -337.70446,-223.17367 C -145.42573,-151.10379 -52.52023,-426.53182 -225.56828,-497.96494 z "
+         style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="czz"
+         id="path7276"
+         d="M -312.78016,-462.52227 C -366.83573,-484.83606 -407.87122,-399.19755 -347.8085,-376.68486 C -287.74579,-354.17216 -258.7246,-440.20848 -312.78016,-462.52227 z "
+         style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="czz"
+         id="path8163"
+         d="M -373.09332,-361.21628 C -400.1211,-372.37317 -420.63885,-329.55391 -390.60748,-318.29756 C -360.57613,-307.04121 -346.06553,-350.05937 -373.09332,-361.21628 z "
+         style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="czz"
+         id="path9050"
+         d="M -233.8076,-474.7877 C -260.83538,-485.94459 -281.35313,-443.12533 -251.32176,-431.86899 C -221.29041,-420.61263 -206.77981,-463.63079 -233.8076,-474.7877 z "
+         style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2930"
+       inkscape:export-filename="/home/lok/pygameLesson/racingKiller/data/bubble3.png"
+       inkscape:export-xdpi="5.8232484"
+       inkscape:export-ydpi="5.8232484">
+      <path
+         sodipodi:nodetypes="czz"
+         id="path9057"
+         d="M 535.08347,-497.96497 C 362.03541,-569.39808 230.66856,-295.24358 422.94729,-223.1737 C 615.22602,-151.10382 708.13152,-426.53185 535.08347,-497.96497 z "
+         style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="czz"
+         id="path9061"
+         d="M 575.99109,-380.7751 C 598.30488,-434.83067 512.66637,-475.86616 490.15368,-415.80344 C 467.64098,-355.74073 553.6773,-326.71954 575.99109,-380.7751 z "
+         style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="czz"
+         id="path9063"
+         d="M 483.25653,-449.65969 C 494.41342,-476.68747 451.59416,-497.20522 440.33781,-467.17385 C 429.08146,-437.1425 472.09962,-422.6319 483.25653,-449.65969 z "
+         style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="czz"
+         id="path9065"
+         d="M 591.11366,-304.65969 C 602.27055,-331.68747 559.45129,-352.20522 548.19495,-322.17385 C 536.93859,-292.1425 579.95675,-277.6319 591.11366,-304.65969 z "
+         style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2924"
+       inkscape:export-filename="/home/lok/pygameLesson/racingKiller/data/bubble2.png"
+       inkscape:export-xdpi="5.8232484"
+       inkscape:export-ydpi="5.8232484">
+      <path
+         sodipodi:nodetypes="czz"
+         id="path9067"
+         d="M 166.51204,-497.96498 C -6.536024,-569.39809 -137.90287,-295.24359 54.37586,-223.17371 C 246.65459,-151.10383 339.56009,-426.53186 166.51204,-497.96498 z "
+         style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="czz"
+         id="path9071"
+         d="M 140.2802,-258.7894 C 194.33577,-236.47561 235.37126,-322.11412 175.30854,-344.62681 C 115.24583,-367.13951 86.22464,-281.10319 140.2802,-258.7894 z "
+         style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="czz"
+         id="path9073"
+         d="M 192.02193,-365.80968 C 219.04971,-354.65279 239.56746,-397.47205 209.53609,-408.7284 C 179.50474,-419.98475 164.99414,-376.96659 192.02193,-365.80968 z "
+         style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="czz"
+         id="path9075"
+         d="M 61.30765,-243.66683 C 88.33543,-232.50994 108.85318,-275.3292 78.82181,-286.58554 C 48.79046,-297.8419 34.27986,-254.82374 61.30765,-243.66683 z "
+         style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2936"
+       inkscape:export-filename="/home/lok/pygameLesson/racingKiller/data/bubble4.png"
+       inkscape:export-xdpi="5.8232484"
+       inkscape:export-ydpi="5.8232484">
+      <path
+         sodipodi:nodetypes="czz"
+         id="path9077"
+         d="M 909.3692,-497.96491 C 736.32117,-569.39802 604.95432,-295.24352 797.23305,-223.17364 C 989.5118,-151.10376 1082.4173,-426.53179 909.3692,-497.96491 z "
+         style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="czz"
+         id="path9081"
+         d="M 749.7229,-331.6432 C 727.40911,-277.58763 813.04762,-236.55214 835.56031,-296.61486 C 858.07301,-356.67757 772.03669,-385.69876 749.7229,-331.6432 z "
+         style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="czz"
+         id="path9083"
+         d="M 851.02889,-277.04433 C 839.872,-250.01655 882.6913,-229.4988 893.9476,-259.53017 C 905.204,-289.56152 862.1858,-304.07212 851.02889,-277.04433 z "
+         style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="czz"
+         id="path9085"
+         d="M 743.17176,-410.61575 C 732.01487,-383.58797 774.83413,-363.07022 786.09047,-393.10159 C 797.34683,-423.13294 754.32867,-437.64354 743.17176,-410.61575 z "
+         style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

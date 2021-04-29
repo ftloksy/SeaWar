@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   sodipodi:docbase="/home/lok/pygameLesson/seaWar-2/data"
+   sodipodi:docname="player.svg"
+   inkscape:export-filename="/home/lok/pygameLesson/seaWar-2/data/player.png"
+   inkscape:export-xdpi="89.999992"
+   inkscape:export-ydpi="89.999992">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="44.970215"
+     inkscape:cx="28.650542"
+     inkscape:cy="739.67554"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1024"
+     inkscape:window-height="693"
+     inkscape:window-x="0"
+     inkscape:window-y="25" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:maroon;fill-opacity:1;stroke:none;stroke-width:3.78150201;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect1872"
+       width="196.21849"
+       height="86.218498"
+       x="26.489134"
+       y="313.24695"
+       inkscape:export-filename="/home/lok/pygameLesson/seaWar-2/data/player.png"
+       inkscape:export-xdpi="91.859627"
+       inkscape:export-ydpi="91.859627" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:red;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="133.34016"
+       y="390.71225"
+       id="text1874"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1876"
+         x="133.34016"
+         y="390.71225">Player</tspan></text>
+    <path
+       style="fill:aqua;fill-rule:evenodd;stroke:none;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 75.78455,324.04019 C 21.72898,301.7264 -19.30651,387.36491 40.75621,409.8776 C 100.81892,432.3903 129.84012,346.35398 75.78455,324.04019 z "
+       id="path7276"
+       sodipodi:nodetypes="czz" />
+    <path
+       style="fill:white;fill-rule:evenodd;stroke:white;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 11.43078,426.86142 C -15.597,415.70453 -36.11475,458.52379 -6.08338,469.78014 C 23.94797,481.03649 38.45857,438.01833 11.43078,426.86142 z "
+       id="path8163"
+       sodipodi:nodetypes="czz" />
+    <path
+       style="fill:red;fill-rule:evenodd;stroke:none;stroke-width:10.62992096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 150.7165,313.29 C 123.68872,302.13311 103.17097,344.95237 133.20234,356.20871 C 163.23369,367.46507 177.74429,324.44691 150.7165,313.29 z "
+       id="path9050"
+       sodipodi:nodetypes="czz" />
+    <path
+       sodipodi:type="arc"
+       style="fill:white;fill-opacity:1;stroke:none;stroke-width:10.62992096;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="path1884"
+       sodipodi:cx="26.548044"
+       sodipodi:cy="313.15414"
+       sodipodi:rx="0.40428492"
+       sodipodi:ry="0.41776109"
+       d="M 26.952329,313.15414 A 0.40428492,0.41776109 0 1 1 26.952329,313.15366"
+       sodipodi:start="0"
+       sodipodi:end="6.2820279"
+       sodipodi:open="true"
+       transform="translate(0.179931,0.373313)" />
+  </g>
+</svg>

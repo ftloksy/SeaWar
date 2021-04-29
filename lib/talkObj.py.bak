@@ -1,0 +1,6 @@
+from childObj import childObj
+		
+class markObj(childObj):
+	def __init__(self, si, id, center, parent):
+		self.id = id
+		childObj.__init__(self, si, center, 'mark', parent)

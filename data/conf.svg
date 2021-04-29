@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   sodipodi:docbase="/home/lok/pygameLesson/racingKiller/data"
+   sodipodi:docname="conf.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5507969"
+     inkscape:cx="288.52699"
+     inkscape:cy="713.72537"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1024"
+     inkscape:window-height="693"
+     inkscape:window-x="0"
+     inkscape:window-y="25" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:gray;fill-opacity:1"
+       id="rect1872"
+       width="300"
+       height="10"
+       x="65.714287"
+       y="248.07648" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1"
+       id="rect1874"
+       width="10"
+       height="30"
+       x="225.10323"
+       y="236.78415" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="204.62427"
+       y="226.49513"
+       id="text1876"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1878"
+         x="204.62427"
+         y="226.49513">300</tspan></text>
+    <rect
+       style="fill:gray;fill-opacity:1"
+       id="rect1880"
+       width="300"
+       height="10"
+       x="84.718025"
+       y="420.4548" />
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1"
+       id="rect1882"
+       width="10"
+       height="30"
+       x="284.08643"
+       y="411.74179" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="262.31781"
+       y="405.32175"
+       id="text1884"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan1886"
+         x="262.31781"
+         y="405.32175">400</tspan></text>
+  </g>
+</svg>
